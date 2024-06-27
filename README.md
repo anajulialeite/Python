@@ -1,4 +1,8 @@
 # Python
+
+
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" align="left" width="150" />
+
  Começando a programar (primeiros passos)
 
  Fiz o curso pelo data Science usando o Anaconda.
