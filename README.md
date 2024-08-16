@@ -3,7 +3,7 @@
 
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" align="left" width="200" />
 
-Este repositório foi criado para me ajudar a entender e programar em Python, aqui você vai encontrar alguns exercícios e códigos na linguagem.
+Aqui você vai encontrar alguns exercícios e códigos na linguagem de programação Python.
 
 Este estudo foi feito no CursoemVídeo, com o professor Gustavo Guanabara e também pelo canal Escola de Códigos para entender melhor sobre Arrays.
 
