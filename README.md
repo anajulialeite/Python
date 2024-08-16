@@ -7,7 +7,7 @@ Este repositório foi criado para me ajudar a entender e programar em Python, aq
 
 Este estudo foi feito no CursoemVídeo, com o professor Gustavo Guanabara e também pelo Canal Escola de Códigos para entender melhor sobre Arrays.
 
-Aqui também vc vai encontrar o estudo sobre Algorítmo de Kadane para encontrar a maior soma de uma subarray.
+Aqui também você vai encontrar o estudo sobre Algorítmos de Kadane para encontrar a maior soma de uma subarray.
 
 Link de como aprender a fazer uma Array: https://www.youtube.com/watch?v=I5Q9eZFDaWA
 
