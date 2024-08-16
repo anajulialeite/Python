@@ -5,7 +5,7 @@
 
 Este repositório foi criado para me ajudar a entender e programar em Python, aqui você vai encontrar alguns exercícios e códigos na linguagem.
 
-Este estudo foi feito no CursoemVídeo, com o professor Gustavo Guanabara e também pelo Canal Escola de Códigos para entender melhor sobre Arrays.
+Este estudo foi feito no CursoemVídeo, com o professor Gustavo Guanabara e também pelo canal Escola de Códigos para entender melhor sobre Arrays.
 
 Aqui também você vai encontrar o estudo sobre Algorítmos de Kadane para encontrar a maior soma de uma subarray.
 
