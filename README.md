@@ -1,10 +1,23 @@
 # Python
 
 
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" align="left" width="150" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" align="left" width="200" />
 
- Começando a programar (primeiros passos)
+Este repositório foi criado para me ajudar a entender e programar em Python, aqui você vai encontrar alguns exercícios e códigos na linguagem.
 
- Fiz o curso pelo data Science usando o Anaconda.
+Este estudo foi feito no CursoemVídeo, com o professor Gustavo Guanabara e também pelo Canal Escola de Códigos para entender melhor sobre Arrays.
 
- Fiz o Curso com o Gustavo Guanabara no CursoemVideo usando o PyCharm, ambos eu instalei com ajuda dos instrutores em seus respectivos cursos.
+Aqui também vc vai encontrar o estudo sobre Algorítmo de Kadane para encontrar a maior soma de uma subarray.
+
+Link de como aprender a fazer uma Array: https://www.youtube.com/watch?v=I5Q9eZFDaWA
+
+Link de como aprender a fazer o Algorítmo de Kadane: https://www.youtube.com/watch?v=ylFB4coxLjQ
+https://www.youtube.com/watch?v=kOmSTe2bVSw&t=58s
+
+Link de como baixar o Python: https://www.python.org/downloads/
+
+Link de como baixar o PyCharm: https://www.jetbrains.com/pt-br/pycharm/download/?section=windows
+
+ 
+
+ 
