@@ -5,7 +5,7 @@
 
 Aqui você vai encontrar alguns exercícios e códigos na linguagem de programação Python.
 
-Este estudo foi feito no CursoemVídeo, com o professor Gustavo Guanabara e também pelo canal Escola de Códigos para entender melhor sobre Arrays.
+Este estudo foi feito no CursoemVideo, com o professor Gustavo Guanabara e também pelo canal Escola de Códigos para entender melhor sobre Arrays.
 
 Aqui também você vai encontrar o estudo sobre Algorítmos de Kadane para encontrar a maior soma de uma subarray.
 
