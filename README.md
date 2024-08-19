@@ -20,6 +20,8 @@ Link de como aprender a fazer o Algorítmo de Kadane: <br>
 https://www.youtube.com/watch?v=ylFB4coxLjQ <br>
 https://www.youtube.com/watch?v=kOmSTe2bVSw&t=58s
 
+Biblioteca do Python: https://docs.python.org/3/library/index.html
+
 Link de como baixar o Python: https://www.python.org/downloads/
 
 Link de como baixar o PyCharm: https://www.jetbrains.com/pt-br/pycharm/download/?section=windows
