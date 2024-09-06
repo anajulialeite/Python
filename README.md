@@ -1,11 +1,11 @@
 # Python
 
 
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" align="left" width="150" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" align="left" width="160" />
 
 Aqui você vai encontrar alguns exercícios e códigos na linguagem de programação Python.
 
-Este estudo foi feito no CursoemVideo, com o professor Gustavo Guanabara do Módulo 1 ao 3 completos e também pelo canal Escola de Códigos para entender melhor sobre Arrays.
+Este estudo foi feito no CursoemVideo, com o professor Gustavo Guanabara do Módulo 1 ao 3 completos e também pelo canal Escola de Códigos para entender melhor sobre Arrays. Este repositório contém prints dos slides do Gustavo Guanabara que julguei ser imprtantes para entender bem a parte teórica, para depois serem colocados em prática em meus códigos!
 
 Aqui também você vai encontrar o estudo sobre Algorítmos de Kadane para encontrar a maior soma de uma subarray.
 
