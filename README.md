@@ -27,3 +27,7 @@ Link de como baixar o Python: https://www.python.org/downloads/
 Link de como baixar o PyCharm: https://www.jetbrains.com/pt-br/pycharm/download/?section=windows
 
 Link de como aprender a baixar o PyCharm: https://www.youtube.com/watch?v=HNUq8X_0nlM&t=278s
+
+# License
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
