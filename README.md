@@ -9,10 +9,12 @@ Este estudo foi feito no CursoemVideo, com o professor Gustavo Guanabara do Mód
 
 Aqui também você vai encontrar o estudo sobre Algorítmos de Kadane para encontrar a maior soma de uma subarray.
 
-Link do CursoemVideo: <br>
+## Link do CursoemVideo
 https://www.cursoemvideo.com/curso/python-3-mundo-1/ <br>
 https://www.cursoemvideo.com/curso/python-3-mundo-2/ <br>
 https://www.cursoemvideo.com/curso/python-3-mundo-3/
+
+## Links úteis
 
 Link de como aprender a fazer uma Array: https://www.youtube.com/watch?v=I5Q9eZFDaWA
 
@@ -28,6 +30,6 @@ Link de como baixar o PyCharm: https://www.jetbrains.com/pt-br/pycharm/download/
 
 Link de como aprender a baixar o PyCharm: https://www.youtube.com/watch?v=HNUq8X_0nlM&t=278s
 
-# License
+## License
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
