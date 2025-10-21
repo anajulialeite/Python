@@ -25,7 +25,7 @@ Biblioteca do <a href= "https://docs.python.org/3/library/index.html">Python</a>
 
 Link de como baixar o <a href= "https://www.python.org/downloads/">Python</a>
 
-Link de como baixar o PyCharm: https://www.jetbrains.com/pt-br/pycharm/download/?section=windows
+Link de como baixar o <a href= "https://www.jetbrains.com/pt-br/pycharm/download/?section=windows">PyCharm</a>
 
 Link de como aprender a baixar o PyCharm: https://www.youtube.com/watch?v=HNUq8X_0nlM&t=278s
 
