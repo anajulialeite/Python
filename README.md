@@ -10,17 +10,16 @@ Este estudo foi feito no CursoemVideo, com o professor Gustavo Guanabara do Mód
 Aqui também você vai encontrar o estudo sobre Algorítmos de Kadane para encontrar a maior soma de uma subarray.
 
 ## Link do CursoemVideo
-https://www.cursoemvideo.com/curso/python-3-mundo-1/ <br>
-https://www.cursoemvideo.com/curso/python-3-mundo-2/ <br>
-https://www.cursoemvideo.com/curso/python-3-mundo-3/
+
+<a href= "https://www.cursoemvideo.com/curso/python-3-mundo-1/">Mundo 1</a>
+
+<a href= "https://www.cursoemvideo.com/curso/python-3-mundo-2/">Mundo 2</a>
+
+<a href= "https://www.cursoemvideo.com/curso/python-3-mundo-3/">Mundo 3</a>
 
 ## Links úteis
 
-Link de como aprender a fazer uma Array: https://www.youtube.com/watch?v=I5Q9eZFDaWA
-
-Link de como aprender a fazer o Algorítmo de Kadane: <br>
-https://www.youtube.com/watch?v=ylFB4coxLjQ <br>
-https://www.youtube.com/watch?v=kOmSTe2bVSw&t=58s
+Link de como aprender a fazer o <a href= "https://www.youtube.com/watch?v=ylFB4coxLjQ">Algorítmo de Kadane</a>
 
 Biblioteca do Python: https://docs.python.org/3/library/index.html
 
