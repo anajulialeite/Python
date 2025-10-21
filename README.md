@@ -23,7 +23,7 @@ Link de como aprender a fazer o <a href= "https://www.youtube.com/watch?v=ylFB4c
 
 Biblioteca do <a href= "https://docs.python.org/3/library/index.html">Python</a>
 
-Link de como baixar o Python: https://www.python.org/downloads/
+Link de como baixar o <a href= "https://www.python.org/downloads/">Python</a>
 
 Link de como baixar o PyCharm: https://www.jetbrains.com/pt-br/pycharm/download/?section=windows
 
