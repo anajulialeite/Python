@@ -32,4 +32,4 @@ Link de como aprender a baixar o PyCharm: https://www.youtube.com/watch?v=HNUq8X
 
 ## License
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
+[![MIT License](https://img.shields.io/badge/License-MIT-%231C003F.svg)](./LICENSE)
