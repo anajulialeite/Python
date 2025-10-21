@@ -21,7 +21,7 @@ Aqui também você vai encontrar o estudo sobre Algorítmos de Kadane para encon
 
 Link de como aprender a fazer o <a href= "https://www.youtube.com/watch?v=ylFB4coxLjQ">Algorítmo de Kadane</a>
 
-Biblioteca do Python: https://docs.python.org/3/library/index.html
+Biblioteca do <a href= "https://docs.python.org/3/library/index.html">Python</a>
 
 Link de como baixar o Python: https://www.python.org/downloads/
 
