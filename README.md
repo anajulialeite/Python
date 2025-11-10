@@ -1,6 +1,5 @@
 # Python
 
-
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" align="left" width="160" />
 
 Aqui você vai encontrar alguns exercícios e códigos na linguagem de programação Python.
